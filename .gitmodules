@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "spTDyn"]
+	path = spTDyn
+	url = https://github.com/cran/spTDyn
+	shallow = true
+	registered = true
+[submodule "spTimer"]
+	path = spTimer
+	url = https://github.com/cran/spTimer
+	shallow = true
+	registered = true
