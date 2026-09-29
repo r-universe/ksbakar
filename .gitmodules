@@ -8,3 +8,6 @@
 [submodule "spTimer"]
 	path = spTimer
 	url = https://github.com/cran/spTimer
+[submodule "svyLocAdj"]
+	path = svyLocAdj
+	url = https://github.com/ksbakar/svylocadj
